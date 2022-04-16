@@ -14,9 +14,10 @@ print ('''
  /____|___|_____|_____/_/\_\
 ''')
 
-print("             =======TCP UDP DDOS TOOLS============                          ")
-print("             =======Create Date :16-04-2022=======                          ")
-print("             =======Tools Created By : ZieLx======                          ")
+print("=======TCP UDP DDOS TOOLS============")
+print("=======Create Date :16-04-2022=======")
+print("=======Tools Created By : ZieLx======")
+
 ip = str(input(" Ip Target : "))
 port = int(input(" Port Target : "))
 choice = str(input(" Method : "))
